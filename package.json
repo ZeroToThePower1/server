@@ -2,10 +2,10 @@
   "name": "newserver",
   "version": "1.0.0",
   "description": "willbe condinu",
-  "main": "main.js",
+  "main": "server.js", 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js"  
   },
   "author": "",
   "license": "ISC",
